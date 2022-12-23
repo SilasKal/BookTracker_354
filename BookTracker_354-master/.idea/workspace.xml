@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02995914-b903-45a8-83dc-93770007d9de" name="Changes" comment="added unit tests for favorites and Recommendation shelf, still needs to be debugged">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/FavoritesTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/FavoritesTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/RecommendationTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/RecommendationTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/ShelfTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/ShelfTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HjmkkCgNUOqh32UF6oIC6nbOMS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Silas\IdeaProjects\BookTracker_354\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02995914-b903-45a8-83dc-93770007d9de" name="Changes" comment="" />
+      <created>1668807017857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668807017857</updated>
+      <workItem from="1668807020898" duration="4323000" />
+      <workItem from="1668817461208" duration="191000" />
+      <workItem from="1668830479298" duration="464000" />
+      <workItem from="1668831688002" duration="1286000" />
+      <workItem from="1668833704311" duration="818000" />
+      <workItem from="1669066270016" duration="225000" />
+      <workItem from="1669133025138" duration="518000" />
+      <workItem from="1669134578311" duration="267000" />
+      <workItem from="1669135456622" duration="2715000" />
+      <workItem from="1670025452320" duration="6735000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1668807482466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668807482466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1668807701222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668807701222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1668807775069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668807775069</updated>
+    </task>
+    <task id="LOCAL-00004" summary="deleted test">
+      <created>1668807806698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668807806698</updated>
+    </task>
+    <task id="LOCAL-00005" summary="addes api.js">
+      <created>1668811756774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668811756774</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added unit tests for favorites and Recommendation shelf, still needs to be debugged">
+      <created>1670021457263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670021457263</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="test" />
+    <MESSAGE value="deleted test" />
+    <MESSAGE value="addes api.js" />
+    <MESSAGE value="fixed error in for loop iterating over books in reading shelf" />
+    <MESSAGE value="added unit tests for favorites and Recommendation shelf, still needs to be debugged" />
+    <option name="LAST_COMMIT_MESSAGE" value="added unit tests for favorites and Recommendation shelf, still needs to be debugged" />
+  </component>
+</project>

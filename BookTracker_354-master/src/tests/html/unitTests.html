@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Book Tracker Unit Testing</title>
+    <link rel="icon" type="image/x-icon" href="../../../frontend/images/favicon.ico">
+    <link href="../css/unitTests.css" rel="stylesheet"/>
+    <link href="https://cdn.rawgit.com/mochajs/mocha/2.2.5/mocha.css" rel="stylesheet"/>
+    <link href="../css/unitTests.css" rel="stylesheet"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.rawgit.com/Automattic/expect.js/0.3.1/index.js"></script>
+    <script src="https://cdn.rawgit.com/chaijs/chai/3.5.0/chai.js"></script>
+    <script src="https://cdn.rawgit.com/mochajs/mocha/2.2.5/mocha.js"></script>
+    
+    <script type="module" class="mocha-init">
+        mocha.setup('bdd');
+    </script>
+
+    <!---------------------------------------->
+    <h1 style="text-align: center; font-family:Arial, Helvetica, sans-serif; padding-top: 20px;">Unit Testing</h1>
+    <h2 style="text-align: center; font-family:Arial, Helvetica, sans-serif;">Team Y_4</h2>
+    <a style="text-align: center;"" href="../../../index.html"><h3>Home Page</h3></a>
+    <script type="module" src="../js/to_read_TEST.js"></script>
+    <script type="module" src="../js/reading_TEST.js"></script>  
+    <script type="module" src="../js/read_TEST.js"></script>  
+    <script type="module" src="../js/favorites_TEST.js"></script>  
+    <script type="module" src="../js/recommendations_TEST.js"></script>  
+    <!---------------------------------------->
+    <script type="module">
+        mocha.run();
+    </script>
+</head>
+<body>
+    <div id="mocha"></div>
+</body>
+</html>

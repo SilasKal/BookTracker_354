@@ -1,0 +1,15 @@
+body{
+    background-color: #eadac2;
+}
+
+#mocha .test a.replay{
+    background-color: black;
+}
+
+#mocha code .comment{
+    color: red;
+}
+
+#mocha h1 a{
+    font-weight: bold;
+}

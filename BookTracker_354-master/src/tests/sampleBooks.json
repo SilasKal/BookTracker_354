@@ -1,0 +1,785 @@
+{
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "j51QAAAAMAAJ",
+      "etag": "Jk/a5PaHAzc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j51QAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Programming Pearls",
+        "authors": [
+          "Jon Louis Bentley"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2000",
+        "description": "A guide to practical programming techniques and design principles, with information on such topics as testing, debugging and timing, set representations, and string problems.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015059212590"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j51QAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j51QAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=j51QAAAAMAAJ&q=programming&dq=programming&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=j51QAAAAMAAJ&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_Pearls.html?hl=&id=j51QAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j51QAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The first edition of Programming Pearls was one of the most influential books I read early in my career, and many of the insights I first encountered in that book stayed with me long after I read it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qAOhDwAAQBAJ",
+      "etag": "ffgXzUXM1rw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qAOhDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Rust Programming Language (Covers Rust 2018)",
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2019-09-03",
+        "description": "The official book on the Rust programming language, written by the Rust development team at the Mozilla Foundation, fully updated for Rust 2018. The Rust Programming Language is the official book on Rust: an open source systems programming language that helps you write faster, more reliable software. Rust offers control over low-level details (such as memory usage) in combination with high-level ergonomics, eliminating the hassle traditionally associated with low-level languages. The authors of The Rust Programming Language, members of the Rust Core Team, share their knowledge and experience to show you how to take full advantage of Rust's features--from installation to creating robust and scalable programs. You'll begin with basics like creating functions, choosing data types, and binding variables and then move on to more advanced concepts, such as: • Ownership and borrowing, lifetimes, and traits • Using Rust's memory safety guarantees to build fast, safe programs • Testing, error handling, and effective refactoring • Generics, smart pointers, multithreading, trait objects, and advanced pattern matching • Using Cargo, Rust's built-in package manager, to build, test, and document your code and manage dependencies • How best to use Rust's advanced compiler with compiler-led programming techniques You'll find plenty of code examples throughout the book, as well as three chapters dedicated to building complete projects to test your learning: a number guessing game, a Rust implementation of a command line tool, and a multithreaded server. New to this edition: An extended section on Rust macros, an expanded chapter on modules, and appendixes on Rust development tools and editions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781718500457"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1718500459"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qAOhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qAOhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=qAOhDwAAQBAJ&pg=PP1&dq=programming&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qAOhDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qAOhDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 43.95,
+          "currencyCode": "CAD"
+        },
+        "retailPrice": {
+          "amount": 43.95,
+          "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qAOhDwAAQBAJ&rdid=book-qAOhDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 43950000,
+              "currencyCode": "CAD"
+            },
+            "retailPrice": {
+              "amountInMicros": 43950000,
+              "currencyCode": "CAD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qAOhDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New to this edition: An extended section on Rust macros, an expanded chapter on modules, and appendixes on Rust development tools and editions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0klsAQAAQBAJ",
+      "etag": "FojAu8NCeww",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0klsAQAAQBAJ",
+      "volumeInfo": {
+        "title": "The C++ Programming Language",
+        "authors": [
+          "Bjarne Stroustrup"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2013",
+        "description": "Offers information on using the C++ programming languge using the new C++11 standard, covering such topics as concurrency, facilities, standard libraries, and design techniques.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780321563842"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0321563840"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1366,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0klsAQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0klsAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=0klsAQAAQBAJ&dq=programming&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=0klsAQAAQBAJ&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_C++_Programming_Language.html?hl=&id=0klsAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0klsAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Offers information on using the C++ programming languge using the new C++11 standard, covering such topics as concurrency, facilities, standard libraries, and design techniques."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "THyeTrOEh7cC",
+      "etag": "PcBWf427gd4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/THyeTrOEh7cC",
+      "volumeInfo": {
+        "title": "Programming Perl",
+        "subtitle": "Unmatched Power for Text Processing and Scripting",
+        "authors": [
+          "Tom Christiansen",
+          "brian foy",
+          "Larry Wall",
+          "Jon Orwant"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2012-02-28",
+        "description": "Introduces the programming language to beginners and provides a Perl language reference for experienced users, covering operators, statements, formats, modules, objects, threads, tied variables, debugging, and security.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596004927"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0596004923"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1177,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=THyeTrOEh7cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=THyeTrOEh7cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=THyeTrOEh7cC&printsec=frontcover&dq=programming&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=THyeTrOEh7cC&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_Perl.html?hl=&id=THyeTrOEh7cC"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=THyeTrOEh7cC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Introduces the programming language to beginners and provides a Perl language reference for experienced users, covering operators, statements, formats, modules, objects, threads, tied variables, debugging, and security."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l4zO3OWkdIsC",
+      "etag": "/AteCj8jH74",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l4zO3OWkdIsC",
+      "volumeInfo": {
+        "title": "Extreme Programming Installed",
+        "authors": [
+          "Ron Jeffries",
+          "Ann Anderson",
+          "Chet Hendrickson"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2001",
+        "description": "Extreme Programming Installed explains the core principles of Extreme Programming and details each step in the XP development cycle. This book conveys the essence of the XP approach--techniques for implementation, obstacles likely to be encountered, and experience-based advice for successful execution.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0201708426"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780201708424"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l4zO3OWkdIsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l4zO3OWkdIsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=l4zO3OWkdIsC&dq=programming&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=l4zO3OWkdIsC&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Extreme_Programming_Installed.html?hl=&id=l4zO3OWkdIsC"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l4zO3OWkdIsC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book conveys the essence of the XP approach--techniques for implementation, obstacles likely to be encountered, and experience-based advice for successful execution."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VjHk2Cjrti8C",
+      "etag": "7djql1HT4qw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VjHk2Cjrti8C",
+      "volumeInfo": {
+        "title": "Programming in Prolog",
+        "authors": [
+          "William F. Clocksin",
+          "Christopher S. Mellish"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2003-07-25",
+        "description": "Originally published in 1981, this was the first textbook on programming in the Prolog language and is still the definitive introductory text on Prolog. Though many Prolog textbooks have been published since, this one has withstood the test of time because of its comprehensiveness, tutorial approach, and emphasis on general programming applications. Prolog has continued to attract a great deal of interest in the computer science community, and has turned out to be the basis for an important new generation of programming languages and systems for Artificial Intelligence. Since the previous edition of Programming in Prolog, the language has been standardised by the International Organization for Standardization (ISO) and this book has been updated accordingly. The authors have also introduced some new material, clarified some explanations, corrected a number of minor errors, and removed appendices about Prolog systems that are now obsolete.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3540006788"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783540006787"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VjHk2Cjrti8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VjHk2Cjrti8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=VjHk2Cjrti8C&printsec=frontcover&dq=programming&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=VjHk2Cjrti8C&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_in_Prolog.html?hl=&id=VjHk2Cjrti8C"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/Programming_in_Prolog-sample-pdf.acsm?id=VjHk2Cjrti8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VjHk2Cjrti8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Since the previous edition of Programming in Prolog, the language has been standardised by the International Organization for Standardization (ISO) and this book has been updated accordingly."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gL34DwAAQBAJ",
+      "etag": "kuGfI1jJVLk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gL34DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Concepts, Techniques, and Models of Computer Programming",
+        "authors": [
+          "Peter Van Roy",
+          "Seif Haridi"
+        ],
+        "publisher": "MIT Press",
+        "publishedDate": "2004-02-20",
+        "description": "Teaching the science and the technology of programming as a unified discipline that shows the deep relationships between programming paradigms. This innovative text presents computer programming as a unified discipline in a way that is both practical and scientifically sound. The book focuses on techniques of lasting value and explains them precisely in terms of a simple abstract machine. The book presents all major programming paradigms in a uniform framework that shows their deep relationships and how and where to use them together. After an introduction to programming concepts, the book presents both well-known and lesser-known computation models (\"programming paradigms\"). Each model has its own set of techniques and each is included on the basis of its usefulness in practice. The general models include declarative programming, declarative concurrency, message-passing concurrency, explicit state, object-oriented programming, shared-state concurrency, and relational programming. Specialized models include graphical user interface programming, distributed programming, and constraint programming. Each model is based on its kernel language—a simple core language that consists of a small number of programmer-significant elements. The kernel languages are introduced progressively, adding concepts one by one, thus showing the deep relationships between different models. The kernel languages are defined precisely in terms of a simple abstract machine. Because a wide variety of languages and programming paradigms can be modeled by a small set of closely related kernel languages, this approach allows programmer and student to grasp the underlying unity of programming. The book has many program fragments and exercises, all of which can be run on the Mozart Programming System, an Open Source software package that features an interactive incremental development environment.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262220699"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0262220695"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 931,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gL34DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gL34DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=gL34DwAAQBAJ&printsec=frontcover&dq=programming&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=gL34DwAAQBAJ&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Concepts_Techniques_and_Models_of_Comput.html?hl=&id=gL34DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/Concepts_Techniques_and_Models_of_Comput-sample-pdf.acsm?id=gL34DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gL34DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This innovative text presents computer programming as a unified discipline in a way that is both practical and scientifically sound."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u13hVoYVZa8C",
+      "etag": "0LfCnTZLiew",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u13hVoYVZa8C",
+      "volumeInfo": {
+        "title": "Planning Extreme Programming",
+        "authors": [
+          "Kent Beck",
+          "Martin Fowler"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2001",
+        "description": "A guide to XP leads the developer, project manager, and team leader through the software development planning process, offering real world examples and tips for reacting to changing environments quickly and efficiently.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0201710919"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780201710915"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u13hVoYVZa8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u13hVoYVZa8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=u13hVoYVZa8C&printsec=frontcover&dq=programming&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=u13hVoYVZa8C&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Planning_Extreme_Programming.html?hl=&id=u13hVoYVZa8C"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u13hVoYVZa8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Specific topics include: Planning and the four key variables: cost, quality, time, and scope Deciding how many features to incorporate into a release Estimating scope, time, and effort for user stories Prioritizing user stories Balancing ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yD6QEAAAQBAJ",
+      "etag": "4qvwL8ELLE0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yD6QEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Linux Programming Interface",
+        "subtitle": "A Linux and UNIX System Programming Handbook",
+        "authors": [
+          "Michael Kerrisk"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2010-10-01",
+        "description": "The Linux Programming Interface (TLPI) is the definitive guide to the Linux and UNIX programming interface—the interface employed by nearly every application that runs on a Linux or UNIX system. In this authoritative work, Linux programming expert Michael Kerrisk provides detailed descriptions of the system calls and library functions that you need in order to master the craft of system programming, and accompanies his explanations with clear, complete example programs. You'll find descriptions of over 500 system calls and library functions, and more than 200 example programs, 88 tables, and 115 diagrams. You'll learn how to: –Read and write files efficiently –Use signals, clocks, and timers –Create processes and execute programs –Write secure programs –Write multithreaded programs using POSIX threads –Build and use shared libraries –Perform interprocess communication using pipes, message queues, shared memory, and semaphores –Write network applications with the sockets API While The Linux Programming Interface covers a wealth of Linux-specific features, including epoll, inotify, and the /proc file system, its emphasis on UNIX standards (POSIX.1-2001/SUSv3 and POSIX.1-2008/SUSv4) makes it equally valuable to programmers working on other UNIX platforms. The Linux Programming Interface is the most comprehensive single-volume work on the Linux and UNIX programming interface, and a book that's destined to become a new classic.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781593272203"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1593272200"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yD6QEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yD6QEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=yD6QEAAAQBAJ&dq=programming&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=yD6QEAAAQBAJ&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Linux_Programming_Interface.html?hl=&id=yD6QEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yD6QEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this authoritative work, Linux programming expert Michael Kerrisk provides detailed descriptions of the system calls and library functions that you need in order to master the craft of system programming, and accompanies his explanations ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4vm2xK3yn34C",
+      "etag": "TUjeJCOeaUg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4vm2xK3yn34C",
+      "volumeInfo": {
+        "title": "Expert C Programming",
+        "subtitle": "Deep C Secrets",
+        "authors": [
+          "Peter Van der Linden"
+        ],
+        "publisher": "Prentice Hall Professional",
+        "publishedDate": "1994",
+        "description": "Software -- Programming Languages.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0131774298"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780131774292"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 14,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4vm2xK3yn34C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4vm2xK3yn34C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=4vm2xK3yn34C&dq=programming&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=4vm2xK3yn34C&dq=programming&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Expert_C_Programming.html?hl=&id=4vm2xK3yn34C"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4vm2xK3yn34C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The tone and style of this text should make this a popular book with professional programmers. However, the tone of this book will make it very popular with undergraduates. Appendix A alone would make the purchase of this book a must."
+      }
+    }
+  ]
+}
